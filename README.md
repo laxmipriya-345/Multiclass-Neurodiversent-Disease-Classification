@@ -46,7 +46,7 @@ The system enables collaborative model training across multiple institutions **w
 ---
 
 # Architecture
-
+![Architecture](archi.png)
 ```plaintext
         Client 1 (Autism Dataset)
               |
