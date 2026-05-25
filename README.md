@@ -145,7 +145,15 @@ Optimizes:
 * Number of estimators
 * Batch size
 * Regularization parameters
+  ![Optuna](images/optuna.png)
 
+Hyperparameter Interaction Visualization
+This contour plot visualizes:
+
+![Contour](images/contor.png)
+Parameter interactions
+Optimization convergence regions
+Best-performing hyperparameter zones
 ## Step 5: Local Training
 
 Each client trains its optimized model independently.
