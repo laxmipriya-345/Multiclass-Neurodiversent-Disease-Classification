@@ -145,7 +145,8 @@ Optimizes:
 * Number of estimators
 * Batch size
 * Regularization parameters
-  ![Optuna](images/optuna.png)
+ ## Optuna Optimization Results
+![Optuna Optimization](optuna%20optimization.png)
 
 Hyperparameter Interaction Visualization
 This contour plot visualizes:
