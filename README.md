@@ -150,7 +150,7 @@ Optimizes:
 Hyperparameter Interaction Visualization
 This contour plot visualizes:
 
-![Contour](images/contor.png)
+![Contour](images/contor %plot.png)
 Parameter interactions
 Optimization convergence regions
 Best-performing hyperparameter zones
